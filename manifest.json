@@ -1,0 +1,23 @@
+{
+  "manifest_version": 4,
+  "name": "Tray Account Indicator",
+  "slug": "tray_account_indicator",
+  "version": "1.0.0",
+  "description": "Linux 下自动识别 QQ 多账号多开，动态替换托盘悬停 ToolTip、Title、高清圆角头像及任务栏窗口标题",
+  "authors": [
+    {
+      "name": "deadalux",
+      "link": "https://github.com/deadalux"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deadalux/LiteLoaderQQNT-Tray-Account-Indicator"
+  },
+  "platform": [
+    "linux"
+  ],
+  "injects": {
+    "main": "./src/main.js"
+  }
+}

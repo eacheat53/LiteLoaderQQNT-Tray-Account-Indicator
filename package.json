@@ -1,0 +1,28 @@
+{
+  "name": "liteloaderqqnt-tray-account-indicator",
+  "version": "1.0.0",
+  "description": "Distinguishes multiple QQ accounts on Linux system tray with custom ToolTips, avatars, and window titles.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node -c src/main.js"
+  },
+  "keywords": [
+    "liteloaderqqnt",
+    "qqnt",
+    "linux",
+    "system-tray",
+    "kde-plasma",
+    "multi-account",
+    "electron"
+  ],
+  "author": "deadalux",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadalux/LiteLoaderQQNT-Tray-Account-Indicator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deadalux/LiteLoaderQQNT-Tray-Account-Indicator/issues"
+  },
+  "homepage": "https://github.com/deadalux/LiteLoaderQQNT-Tray-Account-Indicator#readme"
+}
