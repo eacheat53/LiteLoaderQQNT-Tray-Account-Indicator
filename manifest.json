@@ -1,5 +1,6 @@
 {
   "manifest_version": 4,
+  "type": "extension",
   "name": "Tray Account Indicator",
   "slug": "tray_account_indicator",
   "version": "1.0.0",
@@ -11,8 +12,8 @@
     }
   ],
   "repository": {
-    "type": "git",
-    "url": "https://github.com/deadalux/LiteLoaderQQNT-Tray-Account-Indicator"
+    "repo": "deadalux/LiteLoaderQQNT-Tray-Account-Indicator",
+    "branch": "main"
   },
   "platform": [
     "linux"
