@@ -59,7 +59,7 @@ flowchart TD
 # 适用于常规安装或 Flatpak 安装的插件目录
 mkdir -p ~/.config/LiteLoaderQQNT/plugins
 cd ~/.config/LiteLoaderQQNT/plugins
-git clone https://github.com/deadalux/LiteLoaderQQNT-Tray-Account-Indicator.git tray-account-indicator
+git clone https://github.com/eacheat53/LiteLoaderQQNT-Tray-Account-Indicator.git tray-account-indicator
 ```
 
 #### 3. 增强 LiteLoader Hook（如尚未支持 onTrayCreated）
@@ -142,7 +142,7 @@ Clone into your LiteLoaderQQNT plugins directory:
 ```bash
 mkdir -p ~/.config/LiteLoaderQQNT/plugins
 cd ~/.config/LiteLoaderQQNT/plugins
-git clone https://github.com/deadalux/LiteLoaderQQNT-Tray-Account-Indicator.git tray-account-indicator
+git clone https://github.com/eacheat53/LiteLoaderQQNT-Tray-Account-Indicator.git tray-account-indicator
 ```
 
 Restart QQ or launch a new window to enjoy distinct account indicators!
